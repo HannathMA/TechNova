@@ -13,7 +13,7 @@
 
 ### 👩‍💻 Team Members
 - **Erfana Ebrahim** – KMEA Engineering College  
-- **[Hannath M A]** – Mar Athanasius College  
+- **[Hannath M A]** – Mar Athanasius college of Engineering kothamangalam
 
 ### 🔗 Hosted Project Link
 - **Live Demo:** https://eventsync-demo.vercel.app  
@@ -107,7 +107,8 @@ Organizer dashboard for creating events and assigning tasks.
 Volunteer dashboard displaying assigned tasks and status updates.
 
 🏗️ System Architecture
-Architecture Overview
+
+
 Frontend (React)
         ↓
 Backend API (Node + Express)
@@ -115,6 +116,7 @@ Backend API (Node + Express)
 MongoDB Database
         ↓
 Socket.io (Real-Time Notifications)
+
 🔁 Data Flow
 
 Login → Role Verification → Dashboard → Event Management → Notification Module → Attendance Tracking → Event Closure
@@ -137,7 +139,7 @@ Event auto-closes after completion
 
 📡 API Documentation
 Base URL
-https://api.eventsync-demo.com
+
 🔹 GET /api/events
 
 Description: Fetch all events
@@ -221,13 +223,14 @@ Testing & deployment
 
 👥 Team Contributions
 
-Erfana Ebrahim: Frontend development, UI/UX, Documentation
+Erfana Ebrahim: Frontend development, UI/UX, 
 
-[Member Name]: Backend development, Database design, API integration, Deployment
+[Hannath M.A]: documentation, API integration, Deployment
 
 📜 License
 
-This project is licensed under the MIT License.
-See the LICENSE file for details.
+- MIT License (Permissive, widely used)
+- Apache 2.0 (Permissive with patent grant)
+- GPL v3 (Copyleft, requires derivative works to be open source)
 
 <p align="center"> Made with ❤️ at TinkerHub </p> 
