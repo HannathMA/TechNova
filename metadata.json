@@ -1,0 +1,5 @@
+{
+  "name": "EventSync",
+  "description": "A college event management system to coordinate organizers, volunteers, and participants with real-time updates and task tracking.",
+  "requestFramePermissions": []
+}
